@@ -1,0 +1,231 @@
+{
+  "products": [
+    {
+      "itemID": "1",
+      "img": "https://m.media-amazon.com/images/I/41QfdT1CUzL._AC_UY1000_DpWeblab_.jpg",
+      "name": "Layasa Casual LaseUp",
+      "price": "1500 ",
+      "offer": "10",
+      "OfferPrice": "1350",
+      "category":"Girls"
+    },
+    {
+        "itemID": "2",
+        "img": "https://m.media-amazon.com/images/I/610H86pc9qL._SX575_.jpg",
+        "name": "Adidas Originals Superstar",
+        "price": "1800",
+        "offer": "10",
+        "OfferPrice": "1620",
+        "category": "Boys"
+      },
+      {
+        "itemID": "3",
+        "img": "https://m.media-amazon.com/images/I/518S9+-TeyL._SY675_.jpg",
+        "name": "Puma Future Rider",
+        "price": "1600",
+        "offer": "20",
+        "OfferPrice": "1280",
+        "category": "Boys"
+      },
+      {
+        "itemID": "4",
+        "img": "https://m.media-amazon.com/images/I/71UttgEfjIL._SY575_.jpg",
+        "name": "Converse Chuck Taylor All Star",
+        "price": "1500",
+        "offer": "10",
+        "OfferPrice": "1350",
+        "category": "Boys"
+      },
+      {
+        "itemID": "5",
+        "img": "https://m.media-amazon.com/images/I/61RkQiFbmFL._SX575_.jpg",
+        "name": "Vans Classic Slip-On",
+        "price": "1700",
+        "offer": "15",
+        "OfferPrice": "1445",
+        "category": "Boys"
+      },
+      {
+        "itemID": "6",
+        "img": "https://m.media-amazon.com/images/I/61yu5isivDL._SY575_.jpg",
+        "name": "New Balance 574",
+        "price": "1900",
+        "offer": "10",
+        "OfferPrice": "1710",
+        "category": "Boys"
+      },
+      {
+        "itemID": "7",
+        "img": "https://m.media-amazon.com/images/I/81ZuxgQ6eSL._SX575_.jpg",
+        "name": "Skechers Energy Lights",
+        "price": "2200",
+        "offer": "20",
+        "OfferPrice": "1760",
+        "category": "Boys"
+      },
+      {
+        "itemID": "8",
+        "img": "https://m.media-amazon.com/images/I/41cBgzqEM0L._SY695_.jpg",
+        "name": "Reebok Classic Leather",
+        "price": "2100",
+        "offer": "15",
+        "OfferPrice": "1785",
+        "category": "Boys"
+      },
+      {
+        "itemID": "9",
+        "img": "https://m.media-amazon.com/images/I/51yYOvDor3L._SY575_.jpg",
+        "name": "Under Armour Assert 8",
+        "price": "2000",
+        "offer": "10",
+        "OfferPrice": "1800",
+        "category": "Boys"
+      },
+      {
+        "itemID": "10",
+        "img": "https://m.media-amazon.com/images/I/715xAn2+mcL._SY575_.jpg",
+        "name": "ASICS Gel-Venture 8",
+        "price": "2300",
+        "offer": "15",
+        "OfferPrice": "1955",
+        "category": "Boys"
+      },
+      {
+        "itemID": "11",
+        "img": "https://m.media-amazon.com/images/I/51wThD1W9qL._SX575_.jpg",
+        "name": "Layasa Casual Lace-Up",
+        "price": "1500",
+        "offer": "10",
+        "OfferPrice": "1350",
+        "category": "Girls"
+      },
+      {
+        "itemID": "12",
+        "img": "https://m.media-amazon.com/images/I/61JHYV0pUXL._SY575_.jpg",
+        "name": "Nike Revolution 5",
+        "price": "1800",
+        "offer": "15",
+        "OfferPrice": "1530",
+        "category": "Girls"
+      },
+      {
+        "itemID": "13",
+        "img": "https://m.media-amazon.com/images/I/81DH-n69R3S._SX575_.jpg",
+        "name": "Adidas Cloudfoam Pure Running Shoe",
+        "price": "1900",
+        "offer": "10",
+        "OfferPrice": "1710",
+        "category": "Girls"
+      },
+      {
+        "itemID": "14",
+        "img": "https://m.media-amazon.com/images/I/61JGxqbvS8L._SY575_.jpg",
+        "name": "Puma Carina Sneaker",
+        "price": "1600",
+        "offer": "20",
+        "OfferPrice": "1280",
+        "category": "Girls"
+      },
+      {
+        "itemID": "15",
+        "img": "https://m.media-amazon.com/images/I/61cHAfcjWpL._SY575_.jpg",
+        "name": "Converse Chuck Taylor All Star High Top",
+        "price": "1700",
+        "offer": "15",
+        "OfferPrice": "1445",
+        "category": "Girls"
+      },
+      {
+        "itemID": "16",
+        "img": "https://m.media-amazon.com/images/I/51FnQ1TNajL._AC_SY500_.jpg",
+        "name": "Vans Ward Low Top Sneaker",
+        "price": "1500",
+        "offer": "10",
+        "OfferPrice": "1350",
+        "category": "Girls"
+      },
+      {
+        "itemID": "17",
+        "img": "https://m.media-amazon.com/images/I/71N-NE5Yc8L._SX575_.jpg",
+        "name": "New Balance FuelCore Nergize V1",
+        "price": "2000",
+        "offer": "20",
+        "OfferPrice": "1600",
+        "category": "Girls"
+      },
+      {
+        "itemID": "18",
+        "img": "https://m.media-amazon.com/images/I/81mmNE3bI4L._SX695_.jpg",
+        "name": "Skechers You Pure Slip-On",
+        "price": "2100",
+        "offer": "15",
+        "OfferPrice": "1785",
+        "category": "Girls"
+      },
+      {
+        "itemID": "19",
+        "img": "https://m.media-amazon.com/images/I/61klL+wZX7L._SX575_.jpg",
+        "name": "Reebok Princess Sneaker",
+        "price": "2200",
+        "offer": "10",
+        "OfferPrice": "1980",
+        "category": "Girls"
+      },
+      {
+        "itemID": "20",
+        "img": "https://m.media-amazon.com/images/I/71AHDMKFxpL._SX575_.jpg",
+        "name": "Under Armour Grade School Assert 8",
+        "price": "2300",
+        "offer": "15",
+        "OfferPrice": "1955",
+        "category": "Girls"
+      },
+      {
+        "itemID": "21",
+        "img": "https://m.media-amazon.com/images/I/61FigxgRQ3L._AC_SY500_.jpg",
+        "name": "ASICS Gel-Contend 7",
+        "price": "2400",
+        "offer": "10",
+        "OfferPrice": "2160",
+        "category": "Girls"
+      }
+  ],
+  "user": [
+    {
+      "username": "user1",
+      "password": "user123",
+      "id": "1",
+      "wishlist": [
+        {
+          "itemID": "1",
+          "img": "https://m.media-amazon.com/images/I/41QfdT1CUzL._AC_UY1000_DpWeblab_.jpg",
+          "name": "Layasa Casual LaseUp",
+          "price": "1500 ",
+          "offer": "10",
+          "OfferPrice": "1350"
+        }
+      ],
+      "Cart": [
+        {
+          "itemID": "2",
+          "img": "https://m.media-amazon.com/images/I/41QfdT1CUzL._AC_UY1000_DpWeblab_.jpg",
+          "name": "second Casual LaseUp",
+          "price": "1500 ",
+          "offer": "10",
+          "OfferPrice": "1350",
+          "qty":"1"
+        }
+        , {
+            "itemID": "2",
+            "img": "https://m.media-amazon.com/images/I/41QfdT1CUzL._AC_UY1000_DpWeblab_.jpg",
+            "name": "second Casual LaseUp",
+            "price": "1500 ",
+            "offer": "10",
+            "OfferPrice": "1350",
+            "qty":"1"
+
+          }
+      ]
+    }
+  ]
+}
