@@ -218,5 +218,247 @@
         }
       ]
     }
-  ]
-}
+  ],
+  
+    "Productdetails": [
+      {
+        "image":"https://m.media-amazon.com/images/I/610H86pc9qL._SX575_.jpg",
+        "name": "Adidas Originals Superstar",
+        "price": "1800",
+         "Color":"blue",
+        "size":"7,8,9",
+        "Manufacturer":"Addidas",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image":"https://m.media-amazon.com/images/I/518S9+-TeyL._SY675_.jpg",
+        "name": "Puma Future Rider",
+        "price": "1600",
+        "Color":"blue",
+        "size":"7,8,9",
+        "Manufacturer":"puma",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/71UttgEfjIL._SY575_.jpg",
+        "name": "Converse Chuck Taylor",
+        "price": "1500",
+        "Color":"blue,black",
+        "size":"7,8,9",
+        "Manufacturer":"taylor",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61RkQiFbmFL._SX575_.jpg",
+        "name": "Vans Classic Slip-On",
+        "price": "1700",
+         "Color":"blue",
+         "size":"7,8,9",
+         "Manufacturer":"Vans",
+         "Material":"Leather,Rubber",
+         "Water resistance level":" Water Resistant",
+         "Weight":"1.10kg",
+         "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61yu5isivDL._SY575_.jpg",
+        "name": "New Balance 574",
+        "price": "1900",
+         "Color":"blue",
+        "size":"7,8,9",
+        "Manufacturer":"New Balance",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/41QfdT1CUzL._AC_UY1000_DpWeblab_.jpg",
+        "name": "Layasa Casual LaseUp",
+        "price": "1500",
+         "Color":"blue",
+        "size":"7,8,9",
+        "Manufacturer":"Layasa",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"semi Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+       
+        "image": "https://m.media-amazon.com/images/I/41cBgzqEM0L._SY695_.jpg",
+        "name": "Reebok Classic Leather",
+        "price": "2100",
+         "Color":"blue",
+        "size":"7,8,9",
+        "Manufacturer":"Reebok",
+        "Material":"Leather,Rubber",
+        "Water resistance level":" Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/51yYOvDor3L._SY575_.jpg",
+        "name": "Under Armour Assert 8",
+        "price": "1800",
+         "Color":"blue",
+        "size":"7,8,9",
+        "Manufacturer":"Armour",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+     
+      
+      {
+       
+        "image": "https://m.media-amazon.com/images/I/715xAn2+mcL._SY575_.jpg",
+        "name": "ASICS Gel-Venture 8",
+        "price": "1700",
+        "size":"7,8,9",
+        "Manufacturer":"Ascics",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "itemID": "5",
+        "image": "https://m.media-amazon.com/images/I/51wThD1W9qL._SX575_.jpg",
+        "name": "Layasa Casual Lace-Up",
+        "price": "1900",
+        "size":"7,8,9",
+        "Manufacturer":"Layasa",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        
+        "image": "https://m.media-amazon.com/images/I/61JHYV0pUXL._SY575_.jpg",
+        "name": "Nike Revolution 5",
+        "price": "1800",
+        "size":"7,8,9",
+        "Manufacturer":"Mike",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+  
+      {
+        "image": "https://m.media-amazon.com/images/I/81DH-n69R3S._SX575_.jpg",
+        "name": "Adidas Cloudfoam",
+        "price": "1900",
+        "size":"7,8,9",
+        "Manufacturer":"Addidas",
+        "Material":"Leather,Rubber",
+        "Water resistance level":" Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61JGxqbvS8L._SY575_.jpg",
+        "name": "Puma Carina Sneaker",
+        "size":"7,8,9",
+        "Manufacturer":"Puma",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61cHAfcjWpL._SY575_.jpg",
+        "name": "Converse Chuck Taylor",
+        "price": "1700",
+        "size":"7,8,9",
+        "Manufacturer":"taylor",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+        
+      },
+      {
+       
+        "image": "https://m.media-amazon.com/images/I/51FnQ1TNajL._AC_SY500_.jpg",
+        "name": "Vans Ward Low Top",
+        "price": "1500",
+        "size":"7,8,9",
+        "Manufacturer":"Vans",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/71N-NE5Yc8L._SX575_.jpg",
+        "name": "New Balance FuelCore Nergize V1",
+        "price": "2000",
+        "size":"7,8,9",
+        "Manufacturer":"New Balance",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/81mmNE3bI4L._SX695_.jpg",
+        "name": "Skechers You Pure Slip-On",
+        "price": "2100",
+        "size":"7,8,9",
+        "Manufacturer":"Sketchers",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61klL+wZX7L._SX575_.jpg",
+        "name": "Reebok Princess Sneaker",
+        "price": "2200",
+        "size":"7,8,9",
+        "Manufacturer":"Reebok",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/71AHDMKFxpL._SX575_.jpg",
+        "name": "Under Armour Grade",
+        "price": "2300",
+        "size":"7,8,9",
+        "Manufacturer":"Armour",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      },
+      {
+        "img": "https://m.media-amazon.com/images/I/61FigxgRQ3L._AC_SY500_.jpg",
+        "name": "ASICS Gel-Contend 7",
+        "price": "2400",
+        "size":"7,8,9",
+        "Manufacturer":"Asics",
+        "Material":"Leather,Rubber",
+        "Water resistance level":"Not Water Resistant",
+        "Weight":"1.10kg",
+        "units":"1"
+      }
+    ]
+  }
+      
+
+
