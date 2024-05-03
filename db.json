@@ -54,7 +54,6 @@
       "OfferPrice": "1350",
       "category": "Girls"
     },
-
     {
       "itemID": "7",
       "img": "https://m.media-amazon.com/images/I/41cBgzqEM0L._SY695_.jpg",
@@ -217,6 +216,32 @@
           "qty": "1"
         }
       ]
+    }
+  ],
+  "userRegisterDetails": [
+    {
+      "username": "saxasx",
+      "email": "asxasx",
+      "password": "asxaxasxasx",
+      "id": 1
+    },
+    {
+      "username": "Alkesh",
+      "email": "alkeshmartin18@gmail.com",
+      "password": "qwertyui",
+      "id": 2
+    },
+    {
+      "username": "Najas",
+      "email": "Najas@gmail.com",
+      "password": "najas123",
+      "id": 3
+    },
+    {
+      "username": "Test",
+      "email": "test@gmail.com",
+      "password": "test123",
+      "id": 4
     }
   ]
 }
